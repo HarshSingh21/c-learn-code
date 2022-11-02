@@ -7,6 +7,7 @@ if(top>=n-1)
 cout<<"Stack Overflow"<<endl;
 else {
 top++;
+  
 stack[top]=val;
 }
 }
