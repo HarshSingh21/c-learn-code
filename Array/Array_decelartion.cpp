@@ -10,7 +10,6 @@ int main()
     //   for(int i=0;i<=9;i++)
     //   cout<<A[i];
 
-
    //  or 1 more method 
 //    int A[] = {7,8,6,0,6,2,8,2,8,3};
 //       for(int x:A)  // declaring varible x for elements of A 
