@@ -24,6 +24,5 @@ int main()
          for(float x :G)    // you can use ' auto ' in place of float its very good dont think of variable type
          cout<<x<<endl;
         
-
     return 0;
 }
