@@ -6,6 +6,7 @@ int main()
     //   int A[12] = {7,8,6,0,6,2,8,2,8,3};  // print last digit 
     //   cout<<A[9];
 
+      
       // if you want to print whole array you can use for loop or count function
     //   for(int i=0;i<=9;i++)
     //   cout<<A[i];
