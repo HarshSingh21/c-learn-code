@@ -1,8 +1,5 @@
 #include <iostream>
 using namespace std;
-
-
-
 int main()
 {
     int rows, number = 1;
