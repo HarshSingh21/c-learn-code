@@ -22,6 +22,7 @@ int main()
 			l=mid+l;
 	}
 	    
+	
 	cout<<"Not Found";
 	
 	return 0;
