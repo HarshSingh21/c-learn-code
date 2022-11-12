@@ -3,6 +3,7 @@ using namespace std;
 int main()
 { 
       
+      
       cout<<"Declare an array " ;
     //   int A[12] = {7,8,6,0,6,2,8,2,8,3};  // print last digit 
     //   cout<<A[9];
