@@ -19,8 +19,6 @@ int main()
 		else
 			l=mid+l;
 	}
-	    
-	
 	cout<<"Not Found";
 	
 	return 0;
