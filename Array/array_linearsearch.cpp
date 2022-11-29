@@ -9,6 +9,7 @@ int main()
 	
 	
 	
+	
  	int A[10],n=10;
 	int key;
 	cout<<"Enter Numbers";    
