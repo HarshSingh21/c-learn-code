@@ -16,7 +16,7 @@ int main()
 
         while(k != 2*i-1)
         {
-            cout << "* ";
+            cout << "*";
             ++k;
         }
         cout << endl;

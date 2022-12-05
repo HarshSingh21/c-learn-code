@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-int stack[100], n=100, top=-1;
 
+int stack[100], n=100, top=-1;
 void push(int val) {
 if(top>=n-1)
 cout<<"Stack Overflow"<<endl;
@@ -14,7 +14,7 @@ void pop() {
 if(top<=-1)
 cout<<"Stack Underflow"<<endl;
 else {
-cout<<"The popped element is "<< stack[top] <<endl;
+cout<<"The popped element  is "<< stack[top] <<endl;
 top--;
 }
 }
@@ -44,6 +44,7 @@ case 1: {
 cout<<"Enter value to be pushed:"<<endl;
 cin>>val;
 push(val);
+  
 break;
 }
 case 2: {
@@ -64,4 +65,6 @@ cout<<"Invalid Choice"<<endl;
 }
 }while(ch!=4);
 return 0;
+  
 }
+

@@ -10,6 +10,6 @@ int main()
     {
         fact *=i;
     }
-    cout<<"Factorial is = "<<fact;
+    cout<<"Factorial is   = "<<fact;
     return 0;
 }
