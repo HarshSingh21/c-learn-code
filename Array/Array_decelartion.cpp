@@ -22,6 +22,7 @@ int main()
     //   for(int i=0;i<=3;i++)  // 3 is because we have 3 array in list whe can give more but it will dispay 0
     //   cout<<b[i];
          
+      
          float G[] = {2.3f,4.6f,5,6,4,2};
          for(float x :G)    // you can use ' auto ' in place of float its very good dont think of variable type
          cout<<x<<endl;
