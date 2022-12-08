@@ -15,6 +15,7 @@ int main()
 //       for(int x:A)  // declaring varible x for elements of A 
 //       cout<<x;
 
+      
 
       // you can use float and char in and array example
     //   float b[10] ={1.1,1.3,23.3,34.53};
