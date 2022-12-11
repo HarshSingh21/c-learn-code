@@ -7,6 +7,7 @@ int main()
  	int l=0,h=9,key,mid;
 	cout<<"Enter the Key";
 	cin>>key;  
+	
 	while(l<=h)
 	{
 		mid=(l+h)/2;
