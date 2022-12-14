@@ -18,6 +18,7 @@ int main()
 			
 			
 			
+			
 			cout<<"Found at"<<i;
 			return 0;
 		}
