@@ -15,7 +15,6 @@ int main()
 	{
 		if(key==A[i])
 		{
-			
 			cout<<"Found at"<<i;
 			return 0;
 		}
