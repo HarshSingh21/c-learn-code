@@ -14,6 +14,7 @@ int main()
 	for(int i=0;i<n;i++)
 	{
 		
+		
 		if(key==A[i])
 		{
 			cout<<"Found at"<<i;
