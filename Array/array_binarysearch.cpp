@@ -9,7 +9,6 @@ int main()
 	while(l<=h)
 	{
 		
-		
 		mid=(l+h)/2;
 		if(key==A[mid])
 		{
