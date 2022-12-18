@@ -11,6 +11,8 @@ int main()
 		
 		
 		
+		
+		
 		mid=(l+h)/2;
 		if(key==A[mid])
 		{
