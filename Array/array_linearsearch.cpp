@@ -13,6 +13,8 @@ int main()
 	cin>>key;
 	for(int i=0;i<n;i++)
 	{
+		
+		
 		if(key==A[i])
 		{
 			cout<<"Found at"<<i;
