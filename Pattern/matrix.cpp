@@ -2,10 +2,14 @@
 using namespace std;
 int main()
 {
-    
-    for(int i=0;i<6;i++)
+     int n,p;
+     cout<<"enter row  ";
+     cin>>n;
+     cout<<"enter colomn  ";
+     cin>>p;
+    for(int i=0;i<n;i++)
     {  
-        for(int j=0;j<6;j++)
+        for(int j=0;j<p;j++)
         {
             cout<<"("<<i<<","<<j<<") ";
         }
