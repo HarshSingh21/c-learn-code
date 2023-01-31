@@ -22,3 +22,5 @@ cout<<"space is :"<<space<<endl;
 cout<<"constant is:"<<constant;
   return 0;
 }
+
+
