@@ -1,5 +1,12 @@
 #include<iostream>
 using namespace std;
+ /*
+ To print the pattern 
+ outer loop will print row 
+ inner loop will print column 
+ print pattern  inside the inner loop
+ */
+
     
 int main()
 {
