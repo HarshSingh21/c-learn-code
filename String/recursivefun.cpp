@@ -16,3 +16,4 @@ int main()
 	fun(x);
 	    
 }
+
