@@ -13,3 +13,4 @@ int main()
     cout<<"Factorial is   = "<<fact;
     return 0;
 }
+
