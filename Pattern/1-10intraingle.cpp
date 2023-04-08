@@ -17,7 +17,7 @@ int main(){
         for( int j = 0; j < spaces; j++){
             cout<<"  ";
         }
-
+//space
         int coefficient;
         // Print values.
         for( int j = 0; j <= i; j++){
