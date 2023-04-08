@@ -93,8 +93,6 @@ for(int i :d)
 
 /*
 Vector 
-
-
 {
    vector<int> v;
  
@@ -170,7 +168,3 @@ ARRAY
     cout<<"last Element"<<a.back();}
 
     */
-   
-
-
-
