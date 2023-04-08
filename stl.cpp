@@ -40,7 +40,9 @@ int main()
 // {
 
 
-// deque<int> d;
+// deque
+
+//<int> d;
 // d.push_back(1);
 // d.push_front(2);
 
@@ -68,10 +70,6 @@ int main()
 //     cout<<i <<" ";
 // }
 // cout<<endl;
-
-
-
-
 // d.pop_back();
 // cout<<"POP from back ";
 // for(int i :d)
@@ -88,3 +86,70 @@ int main()
 //     cout<<i<<" ";    // ==    1  
  
 // }  cout <<"\n";}
+
+
+
+//
+
+
+//Vector 
+
+
+// {
+//    vector<int> v;
+ 
+
+//  // initialze 5 element of every value 1 
+//    vector <int> a(5,1);
+//    cout<<"Print a "<<endl;
+//     for(int i:a)
+//    {
+//     cout<<i<<" ";
+//    }cout<<"\n";
+
+//  //copy one varible to another 
+//    vector <int> last(a);
+//    cout<<"Print last "<<endl;
+//    for(int i:last)
+//    {
+//     cout<<i<<" ";
+//    }cout<<"\n";
+
+
+
+//    cout<<"Size ->"<<v.capacity()<<endl;
+
+//    v.push_back(1);
+//   cout<<"Size ->"<<v.capacity()<<endl;
+
+//     v.push_back(2);
+//   cout<<"Size ->"<<v.capacity()<<endl;
+//     v.push_back(3);
+//   cout<<"Size ->"<<v.capacity()<<endl;
+
+//   //
+//   cout<<"Element at 2 index "<<v.at(2)<<endl;
+//   cout<<"first Element "<<v.front()<<endl;
+//    cout<<"last Element  "<<v.back()<<endl;
+
+//    //
+//    cout<<"before pop ";
+//    for(int i:v){
+//     cout<<i<<" ";
+//    }
+//    cout<<endl;
+
+//    v.pop_back();
+
+//    cout<<"After pop ";
+//    for(int i:v){
+//     cout<<i<<" ";
+//    }
+//    cout<<"\n";
+
+//    cout<<"Before clear  "<<v.size()<<endl;
+//    v.clear();
+//    cout<<"After clear  "<<v.size()<<endl;
+
+// }
+
