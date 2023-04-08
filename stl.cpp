@@ -1,20 +1,34 @@
 #include<iostream>
-#include <array>
+// #include <array>
+// #include<vector>
+// #include <deque>
+#include<list>
+
+
 using namespace std ;
 int main()
-{
-    int basic[3]={23,34,54};
 
-    array<int,4>a ={23,32,34,21};
-    int size =a.size();
-    for(int i=0;i<size;i++)
-    {
-        cout<<a[i]<<endl;
-    }
-    cout<<"Element a 2nd index = "<<a.at(2)<<endl;
-    cout<<"Element is empty or not "<<a.empty()<<endl;
-    cout<<"first Element"<<a.front()<<endl;
-    cout<<"last Element"<<a.back();
+{}
 
+//Sequential container 
 
-}
+// list 
+
+// {
+
+// list<int> l;
+
+// l.push_back(1);
+// l.push_front(2);
+
+// for(int i : l)
+// {
+//     cout<<i<<" ";
+// }
+// cout<<endl;
+
+// cout <<"Before erase "<<l.size()<<endl;
+//  l.erase(l.begin());
+// cout <<"After  erase "<<l.size()<<endl;
+
+// }
