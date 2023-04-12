@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std ;
- 
 
 //  intro 
 // int cnt = 0;
@@ -99,4 +98,8 @@ using namespace std ;
 //   cin>>n;
 //   f(1,n);
 // }
+
+
+
+
 
