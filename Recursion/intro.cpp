@@ -53,7 +53,7 @@ using namespace std ;
 //   n-1 
 
 
-// /
+//
 // void f(int i,int n)
 // {
 //   if(i>n) return ;
