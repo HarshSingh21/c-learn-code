@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std ;
- 
 
 //  intro 
 // int cnt = 0;
