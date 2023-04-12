@@ -2,7 +2,7 @@
 using namespace std;
 
 int factorial(int n){
-   
+   /// function 
    // Base Condition.
    if(n == 0)
    {
