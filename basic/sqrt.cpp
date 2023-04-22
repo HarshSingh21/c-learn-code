@@ -7,5 +7,6 @@ int main(int argc, char const *argv[])
      cin>>a;
      cout<<sqrt(a);
     return 0;
+ 
 }
 
