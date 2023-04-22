@@ -8,3 +8,4 @@ int main(int argc, char const *argv[])
      cout<<sqrt(a);
     return 0;
 }
+
