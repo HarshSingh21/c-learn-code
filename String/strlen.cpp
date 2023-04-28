@@ -6,6 +6,7 @@ int main()
 {
      char *p;
 
+     
      cout<<"enter a string";
      cin.getline(p,100);
      cout<<"length"<<strlen(p)<<endl;
