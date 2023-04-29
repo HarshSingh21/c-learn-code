@@ -12,3 +12,4 @@ int main()
      cout<<"length"<<strlen(p)<<endl;
     return 0;
 }
+
