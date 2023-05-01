@@ -4,22 +4,16 @@
 // #include <deque>
 // #include<list>
 
-
 // using namespace std ;
 // int main()
 
 // {}
-
-
-
 //Sequential container 
-
 
 /*
 list 
 
 {
-
 list<int> l;
 
 l.push_back(1);
@@ -36,6 +30,8 @@ cout <<"Before erase "<<l.size()<<endl;
 cout <<"After  erase "<<l.size()<<endl;
 
 } */
+
+
 
 
 
