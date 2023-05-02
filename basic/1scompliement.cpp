@@ -16,7 +16,6 @@
 // }
 
 
-
 // mathmatical logic
 #include <iostream>
 
