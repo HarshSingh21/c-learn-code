@@ -15,7 +15,6 @@
 //     return 0;
 // }
 
-
 // mathmatical logic
 #include <iostream>
 
