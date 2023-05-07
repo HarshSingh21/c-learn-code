@@ -1,7 +1,6 @@
 // using bitset libary function
 // #include <iostream>
 // #include <bitset>
-
 // int main() {
 //     int decimal_number;
 //     std::cin>>decimal_number;
