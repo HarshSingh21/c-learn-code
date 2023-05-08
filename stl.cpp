@@ -37,7 +37,6 @@ cout <<"After  erase "<<l.size()<<endl;
 
 
 
-
 /*
 DEQUE 
  {
