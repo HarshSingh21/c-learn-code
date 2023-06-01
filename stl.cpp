@@ -8,12 +8,6 @@
 // {}
 //Sequential container 
 
-
-
-
-
-
-
 /*
 list 
 
