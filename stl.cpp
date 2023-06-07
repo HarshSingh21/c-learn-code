@@ -10,7 +10,6 @@
 
 /*
 
-
 list 
 {
 list<int> l;
