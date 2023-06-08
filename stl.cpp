@@ -7,9 +7,6 @@
 // int main()
 // {}
 //Sequential container 
-
-
-
 /*
 list 
 {
