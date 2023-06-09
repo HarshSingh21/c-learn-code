@@ -9,7 +9,6 @@
 //Sequential container 
 /*
 
-
 list 
 {
 list<int> l;
