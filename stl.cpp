@@ -11,8 +11,6 @@
 
 
 
-
-
 list 
 {
 list<int> l;
