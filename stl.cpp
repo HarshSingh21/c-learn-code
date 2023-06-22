@@ -8,9 +8,6 @@
 // {}
 //Sequential container 
 /*
-
-
-
 \
 list 
 {
